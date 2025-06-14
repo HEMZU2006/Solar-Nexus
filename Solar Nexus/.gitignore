@@ -1,0 +1,31 @@
+# ========== Unity Generated Files ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+
+# ========== IDE Files ==========
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+
+# ========== OS/System Files ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== Visual Studio Code ==========
+.vscode/
+
+# ========== JetBrains Rider ==========
+.idea/
